@@ -4,7 +4,7 @@ Widget de música para Windows com reprodução local pelo Spotify Soloist, pesq
 
 ## Download
 
-[Baixar SoundSpot 1.11.1 para Windows](https://github.com/gLhRm05/SoundSpot/releases/download/v1.11.1/SoundSpot-1.11.1-Windows.exe)
+[Baixar SoundSpot 1.12.0 para Windows](https://github.com/gLhRm05/SoundSpot/releases/download/v1.12.0/SoundSpot-1.12.0-Windows.exe)
 
 [Ver todas as versões](https://github.com/gLhRm05/SoundSpot/releases)
 
@@ -21,7 +21,7 @@ Siga estas etapas mesmo que já tenha recebido os executáveis. Para usar busca,
 Você precisa de Windows 10/11 de 64 bits, conexão com a internet, sua conta Spotify Premium e o Spotify no celular para o primeiro pareamento. Nessa primeira conexão, o celular e o computador devem estar na mesma rede local.
 
 1. Crie uma pasta permanente, por exemplo `Documentos\SoundSpot`.
-2. Coloque nela o executável `SoundSpot-1.11.1-Windows.exe`.
+2. Coloque nela o executável `SoundSpot-1.12.0-Windows.exe`.
 3. Guarde o arquivo oficial `soloist.exe` em uma subpasta, por exemplo `Documentos\SoundSpot\Soloist`. Se recebeu um ZIP, extraia os arquivos antes de continuar. Se ainda não tem o Soloist, obtenha a versão Windows x86_64 nos [downloads oficiais](https://developer.spotify.com/documentation/soloist/reference/downloads-and-updates).
 4. Abra o executável do SoundSpot com dois cliques.
 
